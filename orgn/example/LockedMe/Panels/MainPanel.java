@@ -72,7 +72,7 @@ public class MainPanel implements Panel {
                 break;
                 
             default:
-                System.out.println("Oops this is an invalid Option");
+                System.out.println("Oops!! this is an invalid Option");
                 break;
         }
         
